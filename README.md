@@ -33,8 +33,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-![Video Walkthrough](https://media.giphy.com/media/hhfoXFxNxPTJCLurYH/giphy.gif)
+  
+<img width="480" height="350" alt="Video Walkthrough" src="https://github.com/user-attachments/assets/c2c77c4f-9d66-4134-85e5-d4b732514898" />
 
 
 GIF created with MacBook Screen Record and GIPHY
