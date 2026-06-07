@@ -38,6 +38,7 @@ Here's a walkthrough of implemented required features:
 
 
 GIF created with MacBook Screen Record and GIPHY
+
 I'm not sure why the GIF ended up so blurry. I tried multiple times, and this was the best I could get.
 
 ## Notes
