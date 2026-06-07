@@ -34,7 +34,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://media.giphy.com/media/hhfoXFxNxPTJCLurYH/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnd6M3Z5cmZpYjNidTh3cmZ0ODVpM3R0ZzZpZnI4Z3VwYm9pY3p6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhfoXFxNxPTJCLurYH/giphy.gif" title="Video Walkthrough" alt="Video Walkthrough" />
+
 
 GIF created with MacBook Screen Record and GIPHY
 I'm not sure why the GIF ended up so blurry. I tried multiple times, and this was the best I could get.
