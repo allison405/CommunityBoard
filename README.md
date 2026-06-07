@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](https://media.giphy.com/media/hhfoXFxNxPTJCLurYH/giphy.gif))
+![Video Walkthrough](https://media.giphy.com/media/hhfoXFxNxPTJCLurYH/giphy.gif)
 
 
 GIF created with MacBook Screen Record and GIPHY
